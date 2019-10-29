@@ -1,4 +1,4 @@
-| Surname                 | Name              | ICObench profile                                      | ICObench profile backup |
+| Cognome                 | Nome              | Profilo ICObench                                      | Backup Profilo ICOBench |
 |-------------------------|-------------------|-------------------------------------------------------|-------------------------|
 | Alberini                | Franz             | https://icobench.com/u/franz-alberini                 |                         |
 | Andriotto               | Mauro             | https://icobench.com/u/mauro-andriotto                |                         |
